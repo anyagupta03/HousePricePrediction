@@ -85,13 +85,14 @@ Source: https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
 ## 📈 Visualizations
 
 ### Chart 1 — Price Distribution
-![Price Distribution](charts/chart1_price_distribution.png)
+![Price Distribution](chart1_price_distribution.png)
+
 
 ### Chart 2 — Correlation Heatmap
-![Correlation Heatmap](charts/chart2_correlation_heatmap.png)
+![Correlation Heatmap](chart2_correlation_heatmap.png)
 
 ### Chart 3 — Actual vs Predicted
-![Actual vs Predicted](charts/chart3_actual_vs_predicted.png)
+![Actual vs Predicted](chart3_actual_vs_predicted.png)
 
 ---
 
